@@ -1,6 +1,6 @@
 # [def]
 def example():
-    print("in example")
+    print("example change")
 # [/def]
 
 # [alias]
